@@ -1,6 +1,8 @@
 # School Project: Tricking Website
-Assignment for Web Design 1
+Assignment for Web Design 1 (2020)
 
-This is a website designed for people to learn more about tricking, getting people to sign up for lessons & know more information about the company. 
+Description: This website is to provide information about tricking, getting people to sign up for lessons & learn more about the company. 
+
+Task: To create a static website with a landing page, about page & further information, users must be able to navigate between pages.
 
 Code used: HTML, CSS, JS
