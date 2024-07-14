@@ -5,4 +5,6 @@ Description: This website is to provide information about tricking, getting peop
 
 Task: To create a static website with a landing page, about page & further information, users must be able to navigate between pages.
 
+How to use: Download this folder & open index.html
+
 Code used: HTML, CSS, JS
